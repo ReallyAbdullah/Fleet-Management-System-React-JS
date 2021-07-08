@@ -1,0 +1,425 @@
+{
+  "Vehicles": [
+    {
+      "id": 12,
+      "Name": "Ferrari 488GTB",
+      "Model_Year": "2019",
+      "Category": "sports",
+      "Rate": 950,
+      "Color": "Black",
+      "Engine_No": "12345",
+      "Chassis_No": "12345",
+      "Reg_No": "12345",
+      "BHP": 1184,
+      "Available": true
+    },
+    {
+      "id": 13,
+      "Name": "Range Rover",
+      "Model_Year": "2017",
+      "Category": "suv",
+      "Rate": 550,
+      "Color": "Black",
+      "Engine_No": "12345",
+      "Chassis_No": "12345",
+      "Reg_No": "12345",
+      "BHP": 1184,
+      "Available": true
+    },
+    {
+      "id": 14,
+      "Name": "Tesla Model 3",
+      "Model_Year": "2020",
+      "Category": "economy",
+      "Rate": 500,
+      "Color": "Black",
+      "Engine_No": "12345",
+      "Chassis_No": "12345",
+      "Reg_No": "12345",
+      "BHP": 1184,
+      "Available": true
+    },
+    {
+      "id": 15,
+      "Name": "Mercedez V Class",
+      "Model_Year": "2015",
+      "Category": "van",
+      "Rate": 400,
+      "Color": "Black",
+      "Engine_No": "12345",
+      "Chassis_No": "12345",
+      "Reg_No": "12345",
+      "BHP": 1184,
+      "Available": true
+    },
+    {
+      "Name": "Bugatti Chiron",
+      "Model_Year": "2019",
+      "Category": "sports",
+      "Rate": 5000,
+      "id": 16,
+      "Color": "Black",
+      "Engine_No": "12345",
+      "Chassis_No": "12345",
+      "Reg_No": "12345",
+      "BHP": 1184,
+      "Available": true
+    },
+    {
+      "Name": "Rolls Royce Wraith",
+      "Model_Year": "2017",
+      "Category": "sports",
+      "Rate": 1100,
+      "id": 17,
+      "Color": "Black",
+      "Engine_No": "12345",
+      "Chassis_No": "12345",
+      "Reg_No": "12345",
+      "BHP": 1184,
+      "Available": true
+    },
+    {
+      "Name": "MG ZS EV",
+      "Model_Year": "2021",
+      "Category": "economy",
+      "Rate": 200,
+      "id": 18,
+      "Color": "Black",
+      "Engine_No": "12345",
+      "Chassis_No": "12345",
+      "Reg_No": "12345",
+      "BHP": 1184,
+      "Available": true
+    },
+    {
+      "Name": "BMW M5",
+      "Model_Year": "2018",
+      "Category": "sports",
+      "Rate": 600,
+      "id": 19,
+      "Color": "Black",
+      "Engine_No": "12345",
+      "Chassis_No": "12345",
+      "Reg_No": "12345",
+      "BHP": 1184,
+      "Available": true
+    },
+    {
+      "Name": "Honda City",
+      "Model_Year": "2016",
+      "Category": "economy",
+      "Rate": 70,
+      "id": 20,
+      "Color": "Black",
+      "Engine_No": "12345",
+      "Chassis_No": "12345",
+      "Reg_No": "12345",
+      "BHP": 1184,
+      "Available": true
+    },
+    {
+      "Available": false,
+      "Name": "Toyota Corolla",
+      "Model_Year": "2018",
+      "Category": "economy",
+      "Rate": 90,
+      "Color": "Black",
+      "Engine_No": "12345",
+      "Chassis_No": "12345",
+      "Reg_No": "12345",
+      "BHP": 1184,
+      "id": 21
+    }
+  ],
+  "Persons": [
+    {
+      "id": 1,
+      "JoinDate": "1900-01-01T00:00:00",
+      "Name": "Hamza",
+      "Addressn": "karachi dha 8 amaar complex",
+      "Cnic": "56540-56210-9",
+      "gender": "Trans",
+      "Age": 22,
+      "PhoneNumber": "0356565656",
+      "picurl": "https://scontent.flhe5-1.fna.fbcdn.net/v/t1.0-9/86490755_10215076667979823_620156431017967616_o.jpg?_nc_cat=101&ccb=2&_nc_sid=09cbfe&_nc_ohc=zIAVULQTHM4AX9vD6_Y&_nc_ht=scontent.flhe5-1.fna&oh=f2544466673a710d7909dd94befbe2fb&oe=5F\r\nF575EE"
+    },
+    {
+      "id": 2,
+      "JoinDate": "1900-01-01T00:00:00",
+      "Name": "abdul mushtaq",
+      "Addressn": "kmohallah ghulam rasheed ",
+      "Cnic": "35201-56210-9",
+      "gender": "let it be",
+      "Age": 28,
+      "PhoneNumber": "03898591585",
+      "picurl": "https://drive.google.com/file/d/1PkglaNO9ga3efJJ3Zc2T0r5n553PUGlp/view"
+    },
+    {
+      "id": 3,
+      "JoinDate": "1900-01-01T00:00:00",
+      "Name": "abdul mushtaq",
+      "Addressn": "kmohallah ghulam rasheed ",
+      "Cnic": "35201-56210-9",
+      "gender": "let it be",
+      "Age": 28,
+      "PhoneNumber": "03898591585",
+      "picurl": "https://drive.google.com/file/d/1PkglaNO9ga3efJJ3Zc2T0r5n553PUGlp/view"
+    },
+    {
+      "id": 4,
+      "JoinDate": "1900-01-01T00:00:00",
+      "Name": "abdul mushtaq",
+      "Addressn": "kmohallah ghulam rasheed ",
+      "Cnic": "35201-56210-9",
+      "gender": "let it be",
+      "Age": 28,
+      "PhoneNumber": "03898591585",
+      "picurl": "https://drive.google.com/file/d/1PkglaNO9ga3efJJ3Zc2T0r5n553PUGlp/view"
+    },
+    {
+      "id": 5,
+      "JoinDate": "1900-01-01T00:00:00",
+      "Name": "abdul mushtaq",
+      "Addressn": "kmohallah ghulam rasheed ",
+      "Cnic": "35201-56210-9",
+      "gender": "let it be",
+      "Age": 28,
+      "PhoneNumber": "03898591585",
+      "picurl": "https://drive.google.com/file/d/1PkglaNO9ga3efJJ3Zc2T0r5n553PUGlp/view"
+    },
+    {
+      "id": 6,
+      "JoinDate": "1900-01-01T00:00:00",
+      "Name": "abdul mushtaq",
+      "Addressn": "kmohallah ghulam rasheed ",
+      "Cnic": "35201-56210-9",
+      "gender": "let it be",
+      "Age": 28,
+      "PhoneNumber": "03898591585",
+      "picurl": "https://drive.google.com/file/d/1PkglaNO9ga3efJJ3Zc2T0r5n553PUGlp/view"
+    },
+    {
+      "id": 7,
+      "JoinDate": "1900-01-01T00:00:00",
+      "Name": "abdul mushtaq",
+      "Addressn": "kmohallah ghulam rasheed ",
+      "Cnic": "35201-56210-9",
+      "gender": "let it be",
+      "Age": 28,
+      "PhoneNumber": "03898591585",
+      "picurl": "https://drive.google.com/file/d/1PkglaNO9ga3efJJ3Zc2T0r5n553PUGlp/view"
+    },
+    {
+      "id": 8,
+      "JoinDate": "1900-01-01T00:00:00",
+      "Name": "abdul mushtaq",
+      "Addressn": "kmohallah ghulam rasheed ",
+      "Cnic": "35201-56210-9",
+      "gender": "let it be",
+      "Age": 28,
+      "PhoneNumber": "03898591585",
+      "picurl": "https://drive.google.com/file/d/1PkglaNO9ga3efJJ3Zc2T0r5n553PUGlp/view"
+    },
+    {
+      "id": 9,
+      "JoinDate": "1900-01-01T00:00:00",
+      "Name": "abdul mushtaq",
+      "Addressn": "kmohallah ghulam rasheed ",
+      "Cnic": "35201-56210-9",
+      "gender": "let it be",
+      "Age": 28,
+      "PhoneNumber": "03898591585",
+      "picurl": "https://drive.google.com/file/d/1PkglaNO9ga3efJJ3Zc2T0r5n553PUGlp/view"
+    },
+    {
+      "id": 10,
+      "JoinDate": "1900-01-01T00:00:00",
+      "Name": "abdul mushtaq",
+      "Addressn": "kmohallah ghulam rasheed ",
+      "Cnic": "35201-56210-9",
+      "gender": "let it be",
+      "Age": 28,
+      "PhoneNumber": "03898591585",
+      "picurl": "https://drive.google.com/file/d/1PkglaNO9ga3efJJ3Zc2T0r5n553PUGlp/view"
+    }
+  ],
+  "Drivers": [
+    {
+      "id": 1,
+      "Person_ID": 2,
+      "Password": "456"
+    },
+    {
+      "id": 2,
+      "Person_ID": 4,
+      "Password": "789"
+    },
+    {
+      "id": 3,
+      "Person_ID": 6,
+      "Password": "789"
+    },
+    {
+      "id": 4,
+      "Person_ID": 8,
+      "Password": "789"
+    }
+  ],
+  "Bookings": [
+    {
+      "id": 1,
+      "Customer_ID": 1,
+      "Driver_ID": 1,
+      "Car_ID": 14,
+      "Start_Location": "Somewhere",
+      "End_Location": "Somewhere",
+      "Start_Time": "10:52 AM GMT",
+      "End_Time": "11:35 AM GMT",
+      "Payment_ID": 1
+    },
+    {
+      "Customer_ID": 2,
+      "Driver_ID": 1,
+      "Car_ID": 18,
+      "Start_Location": "Lat : 33.6844 Lng : 73.0479",
+      "End_Location": "Lat : 33.6844 Lng : 73.0479",
+      "Start_Time": "10:45 0/14/2021",
+      "End_Time": "10:45 0/15/2021",
+      "Payment ID": null,
+      "id": 2
+    },
+    {
+      "Customer_ID": 3,
+      "Driver_ID": 2,
+      "Car_ID": 17,
+      "Start_Location": "Lat : 33.6844 Lng : 73.0479",
+      "End_Location": "Lat : 33.6844 Lng : 73.0479",
+      "Start_Time": "10:45 0/1/2021",
+      "End_Time": "10:45 0/1/2021",
+      "Payment ID": null,
+      "id": 3
+    },
+    {
+      "Customer_ID": 1,
+      "Driver_ID": 1,
+      "Car_ID": 13,
+      "Start_Location": "Lat : 33.6844 Lng : 73.0479",
+      "End_Location": "Lat : 33.6844 Lng : 73.0479",
+      "Start_Time": "10:45 0/1/2021",
+      "End_Time": "10:45 0/1/2021",
+      "Payment ID": null,
+      "id": 4
+    },
+    {
+      "Customer_ID": 4,
+      "Driver_ID": 3,
+      "Car_ID": 21,
+      "Start_Location": "Lat : 33.63410550735587 Lng : 73.00944785156251",
+      "End_Location": "Lat : 33.61924014593708 Lng : 72.98335532226564",
+      "Start_Time": "10:45 0/7/2021",
+      "End_Time": "10:45 0/14/2021",
+      "Payment_ID": null,
+      "id": 5
+    },
+    {
+      "Customer_ID": 1,
+      "Driver_ID": 2,
+      "Car_ID": 15,
+      "Start_Location": "Lat : 33.583781627310074 Lng : 73.06163291015626",
+      "End_Location": "Lat : 33.69582646582498 Lng : 72.87898520507814",
+      "Start_Time": "10:45 0/7/2021",
+      "End_Time": "10:45 0/13/2021",
+      "Payment_ID": null,
+      "id": 6
+    },
+    {
+      "Customer_ID": 3,
+      "Driver_ID": 2,
+      "Car_ID": 13,
+      "Start_Location": "Lat : 33.580349384063354 Lng : 72.8717754272461",
+      "End_Location": "Lat : 33.597509235085404 Lng : 72.8930614379883",
+      "Start_Time": "10:45 0/13/2021",
+      "End_Time": "19:45 0/20/2021",
+      "Payment_ID": null,
+      "id": 7
+    },
+    {
+      "Customer_ID": 4,
+      "Driver_ID": 2,
+      "Car_ID": 12,
+      "Start_Location": "Lat : 33.67411488195499 Lng : 73.08738211669923",
+      "End_Location": "Lat : 33.60094079569193 Lng : 73.1402538208008",
+      "Start_Time": "14:45 11/30/2020",
+      "End_Time": "10:45 0/24/2021",
+      "Payment_ID": null,
+      "id": 8
+    },
+    {
+      "Customer_ID": 2,
+      "Driver_ID": 3,
+      "Car_ID": 19,
+      "Start_Location": "Lat : 33.62152729156847 Lng : 73.22745780029298",
+      "End_Location": "Lat : 33.67182913308927 Lng : 72.87932852783204",
+      "Start_Time": "10:45 0/22/2021",
+      "End_Time": "08:45 0/5/2021",
+      "Payment_ID": null,
+      "id": 9
+    },
+    {
+      "Customer_ID": 3,
+      "Driver_ID": 2,
+      "Car_ID": 20,
+      "Start_Location": "Lat : 33.656970284741114 Lng : 73.2453105834961",
+      "End_Location": "Lat : 33.67868619742465 Lng : 72.8271434692383",
+      "Start_Time": "10:45 0/3/2021",
+      "End_Time": "10:45 0/15/2021",
+      "Payment_ID": null,
+      "id": 10
+    },
+    {
+      "Customer_ID": 3,
+      "Driver_ID": 1,
+      "Car_ID": 13,
+      "Start_Location": "Lat : 33.6844 Lng : 73.0479",
+      "End_Location": "Lat : 33.6844 Lng : 73.0479",
+      "Start_Time": "10:45 0/1/2021",
+      "End_Time": "10:45 0/1/2021",
+      "Payment_ID": null,
+      "id": 11
+    }
+  ],
+  "Customers": [
+    {
+      "id": 1,
+      "Person_ID": 1,
+      "Password": "456"
+    },
+    {
+      "id": 2,
+      "Person_ID": 3,
+      "Password": "789"
+    },
+    {
+      "id": 3,
+      "Person_ID": 5,
+      "Password": "789"
+    },
+    {
+      "id": 4,
+      "Person_ID": 7,
+      "Password": "789"
+    }
+  ],
+  "Managers": [
+    {
+      "id": 1,
+      "Person_ID": 9,
+      "Password": "456"
+    },
+    {
+      "id": 2,
+      "Person_ID": 10,
+      "Password": "789"
+    }
+  ]
+}

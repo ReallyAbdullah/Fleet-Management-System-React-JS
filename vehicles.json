@@ -1,0 +1,26 @@
+[
+    {
+        "id": 12,
+        "Name": "Ferrari",
+        "Model": "2019",
+        "Category": "sports"
+    },
+    {
+        "id": 13,
+        "Name": "Range Rover",
+        "Model": "2018",
+        "Category": "suv"
+    },
+    {
+        "id": 14,
+        "Name": "Tesla Model 3",
+        "Model": "2020",
+        "Category": "economy"
+    },
+    {
+        "id": 15,
+        "Name": "Mercedez V Class",
+        "Model": "2015",
+        "Category": "van"
+    }
+]
